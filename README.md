@@ -6,9 +6,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at [IIIT Bangalore](https://www.iiitb.ac.in/).
 - 💻 &nbsp; Developer at [Zense](https://github.com/zense).
-- 🚖 &nbsp; Currently working on the project [PoolIIIT](https://github.com/divyamagwl/PoolIIIT).
-- 🚩 &nbsp; Enjoys participating in [CTF](https://ctfd.io/whats-a-ctf/) tournaments in my spare time.
-- 💼 &nbsp; Worked as an Intern at FOSSEE Animations, IIT Bombay.
+- 🚩 &nbsp; Blockahin enthusiast who loves partipating in hackathons.
 - 🌱 &nbsp; Constantly learning something new.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -16,26 +14,24 @@
 
 <!-- Python -->
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!-- C -->
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <!-- C++ -->
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<!-- Java -->
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <!-- Javascript -->
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<!-- C -->
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<!-- Solidity -->
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <!-- Django -->
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 <!-- React -->
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!-- Firebase -->
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+<!-- Java -->
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <!-- HTML5 -->
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <!-- CSS3 -->
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<!-- Flask -->
-<img width="45" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 <!-- Git -->
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
 <!-- VSCode -->
